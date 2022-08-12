@@ -1,20 +1,36 @@
 {
-    "transactions": [
-        {
-            "id": 1,
-            "description": "Desenvolvimento de site",
-            "type": "income",
-            "Category": "venda",
-            "price": 14000,
-            "createdAt": "2022-08-11T18:37:26.523Z" 
-        },
-        {
-            "id": 2,
-            "description": "Hamburger",
-            "type": "outcome",
-            "Category": "Alimentação",
-            "price": 50,
-            "createdAt": "2022-08-11T18:37:26.523Z" 
-        }
-    ]
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "Category": "venda",
+      "price": 14000,
+      "createdAt": "2022-08-11T18:37:26.523Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburger",
+      "type": "outcome",
+      "Category": "Alimentação",
+      "price": 50,
+      "createdAt": "2022-08-11T18:37:26.523Z"
+    },
+    {
+      "description": "Netflex",
+      "price": 25,
+      "category": "Streaming",
+      "type": "outcome",
+      "createdAt": "2022-08-12T18:56:10.176Z",
+      "id": 3
+    },
+    {
+      "description": "Amazon",
+      "price": 9,
+      "category": "Streaming",
+      "type": "outcome",
+      "createdAt": "2022-08-12T19:14:10.991Z",
+      "id": 4
+    }
+  ]
 }
